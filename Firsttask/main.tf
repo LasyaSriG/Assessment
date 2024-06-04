@@ -1,7 +1,7 @@
 provider "google" {
   project     = "lasya-ganta-14"
   region      = "us-east1"
-  credentials = file("key.json")
+  credentials = file("keys.json")
 }
  
 resource "google_compute_network" "network" {
