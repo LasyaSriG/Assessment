@@ -3,7 +3,7 @@
 
 - name: Setup Ubuntu Desktop Environment and Chrome Remote Desktop
 
-  hosts: ubuntu_vms
+  hosts: all
 
   become: true
 
