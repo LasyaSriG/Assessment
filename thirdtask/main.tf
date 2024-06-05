@@ -77,6 +77,9 @@ sshpass -p "ansible" ssh root@${google_compute_instance.worker_instance.network_
   
   SCRIPT
 }
+provisioner "local-exec" {
+    command = "ansible all -m ping --ask-pass -e 'ansible_ssh_pass=${var.master_password}'"
+  }
 
 
  
