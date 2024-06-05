@@ -33,6 +33,7 @@ resource "google_compute_instance" "jenkins_instance" {
   name         = "jenkins-server"
   machine_type = "e2-medium"
   zone         = "us-east1-d"
+  tags          = ["jenkins"]
  
   boot_disk {
     auto_delete = true
@@ -81,7 +82,7 @@ resource "google_compute_instance" "jenkins_instance" {
     sudo add-apt-repository --yes --update ppa:ansible/ansible
     sudo apt-get install -y ansible
   EOF
- 
+
   service_account {
     email  = "default"
     scopes = [
@@ -94,7 +95,6 @@ resource "google_compute_instance" "jenkins_instance" {
     ]
   }
  
-  tags = ["http-server", "https-server", "jenkins"]
  
   shielded_instance_config {
     enable_integrity_monitoring = true
