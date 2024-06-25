@@ -1,13 +1,1 @@
-{
-  "type": "service_account",
-  "project_id": "lasya-ganta-14",
-  "private_key_id": "e4f6389d7b92a185808c40ec27c460634a0263b0",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCxGqOWJnjniJkw\njEN+Pf3kA4x2ZVwvSZzzjzWVgQ3QH6LLF+Vc60bAvkPOTBVB4fFiz0OwzHjLm7sF\nYcVLPlUPLAYaIqplbnFoMGEB4nEFGhekqifWDLkKkZG5HBNWWa7NIpAxaa64isAR\naFoexleMezc2jZbrH4fl8xnDvYBbP5Kri973Qm2xRvPpwCoG8p1QyfBZ+p5XOOZB\nkNEkcTolnTCFjmmhCophlTc9I5Rw7B3Om3Kd9d0stBT4qQZ7KWfNUobYGLUPXTvA\ndAqAqhSV2w7H0e9MD7Lq5qx/i7AydkSHcq5OxYB/W7pRxMEkibfjbCumWrnMSzbI\nJpwQQqATAgMBAAECggEAA0unGp6ppklM7HHXuawmos0MGpHlRr38bS3PhfIqUyKb\nkWLm8jUwklqYAWk6BglRyBBqRopvfv5tWvrIRI+q3obnsCnP+OY2twUbcQEJMFqd\ncQN3jUycTt2JlCO5GmS903ResYSxax6t10UVVDhFncgXLW0yDzr9eOJuqs1Ga6w5\nvc9yDcsYoTRwq03U1YvvPi9gemyzz8YYwgJswKAc7lsVRapdytNT+FgE+vuhCdf2\ndrBzdOpOqgmIrb9lPveki+kTYewmwXWhpcd3WNM6LM+QtITCPWCd8EyhrBgpXUDZ\nKHUjydHW87EZZuRU2e4TXuOUptt9Tme1eepqXnZxaQKBgQDZvnWTLicwDBKyE1cX\npOyZTO8J+dmCPMGr7cU7ZNi4lUguBihGAxcaESJCKRczL2lq1LPfYrcix1RdS2Et\nOt9+a17YiqsDxRTrEmtt+XkgC184ZjNrvOUjYoJeuilZZSR9el+0v1JquZLGXo/z\nIB9spL3sTIt5724ASpw+Ooy6awKBgQDQOE4PEWSf7j4LhXxAK+mCrY1MpjSVO8H0\nFgoxFImW+36MJ4R7UvvGCAczATzDMLduFv8pJNU5vxLyFMG1srg5CXGtdpDsC4oa\nbwh64SCUzvkNd+DmZ2qFQ6CpkITGZLvOi0edGSGu53d7xX/NBIkW4G+TwKRJOfYd\nEEx8FtNq+QKBgDlSh5dgjhZ7Byz0JHhoBZVyCHfi250Kq528cbDqIpetTRw4qL+N\nrrZBDnjGYoIqGCF0r4m+biHswcvxvTpwBkg8sfJlxxGt/4zHA5snEvkZpU6usRjK\n2LPRCisv7RTIqKuT3MAzodnQ0tAAMvs5WKx8Tjd4CzvliVrwSWOkfEnTAoGBAIH1\n8rqy53RvFijIyzGeduQKgPwLbRyMLNW1f+z8XZhwJp9B9w2mUOFcl2m9ZviJiqPb\nFK3QgInHegLA89r9zsBC5cIYFAJQfYVcMhXIODbJLGe8oBIPEExXVosfWdAehZ44\nDp2+Vui9LjWBovAK2an+sYWuIpxV4ghn6OU2tgS5AoGBANJE1gS2AUkEtM87XxR2\neXfwvkmg+X5m9IDg/NUqrBSU503EENnoz9Jgy6FN1EEhvouAAx+JIkIX3XHT6BRf\niMq00Qb7wkEu5j6sLeHvdKbm4kU/vVApDZnHl1hineSQlLl0yftrULFzOyT6stMC\nVE121S5ygJOSFeGRFCtanCSv\n-----END PRIVATE KEY-----\n",
-  "client_email": "ansible@lasya-ganta-14.iam.gserviceaccount.com",
-  "client_id": "100576356571927936614",
-  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
-  "token_uri": "https://oauth2.googleapis.com/token",
-  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/ansible%40lasya-ganta-14.iam.gserviceaccount.com",
-  "universe_domain": "googleapis.com"
-}
+
